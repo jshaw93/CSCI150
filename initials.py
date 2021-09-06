@@ -9,6 +9,8 @@
 # They are also used to give developers context on where to use certain bits of code that I hope we'll cover
 # later in the semester.
 
+# To make a Multi-line string, you encompass the string with three sets of quotations.
+
 print(""" JJJJJJJJJJJ    SSSSSSSS
  JJJJJJJJJJJ  SS
  JJJJJJJJJJJ  SS
